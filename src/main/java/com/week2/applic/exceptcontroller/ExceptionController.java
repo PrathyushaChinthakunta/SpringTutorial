@@ -1,4 +1,4 @@
-package com.week2.Application.ExceptController;
+package com.week2.applic.exceptcontroller;
 
  import org.springframework.http.HttpStatus;
  import org.springframework.http.ResponseEntity; 

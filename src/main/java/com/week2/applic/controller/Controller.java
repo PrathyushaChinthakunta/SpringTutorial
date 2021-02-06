@@ -1,4 +1,4 @@
-package com.week2.Application.Controller;
+package com.week2.applic.controller;
 
 import java.util.HashMap;
 import java.util.Map; 
@@ -13,9 +13,9 @@ import javax.validation.Valid;
  import org.springframework.web.bind.annotation.RequestBody; 
  import org.springframework.web.bind.annotation.RestController;
 
-import com.week2.Application.ExceptController.EnterValue;
-import com.week2.Application.ExceptController.ValueNotFoundException;
-import com.week2.Application.model.Data; 
+import com.week2.applic.exceptcontroller.EnterValue;
+import com.week2.applic.exceptcontroller.ValueNotFoundException;
+import com.week2.applic.model.Data; 
  
  
  @RestController 

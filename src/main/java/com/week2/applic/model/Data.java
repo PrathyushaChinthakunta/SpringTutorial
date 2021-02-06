@@ -1,4 +1,4 @@
-package com.week2.Application.model;
+package com.week2.applic.model;
 
 import javax.validation.constraints.NotEmpty; 
 
